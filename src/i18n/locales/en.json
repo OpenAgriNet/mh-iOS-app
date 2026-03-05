@@ -1,0 +1,160 @@
+{
+  "common": {
+    "verify": "Verify",
+    "update": "Update",
+    "change": "Change",
+    "delete": "Delete",
+    "home": "Home",
+    "login": "Login",
+    "logout": "Logout",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "resend": "Resend",
+    "sendOTP": "Send OTP",
+    "comingSoon": "Coming Soon"
+  },
+  "login": {
+    "title": "Welcome",
+    "subtitle": "Sign In!",
+    "mobilePlaceholder": "Enter mobile number",
+    "passwordPlaceholder": "Enter password",
+    "otpPlaceholder": "Enter 6-digit OTP",
+    "loginWithPassword": "Login with Password",
+    "loginWithOTP": "Login with OTP",
+    "forgotPassword": "Forgot Password?",
+    "dontHaveAccount": "Don't have an account?",
+    "registerNow": "Register Now",
+    "otpSent": "OTP sent successfully",
+    "otpVerification": "OTP Verification",
+    "otpSentTo": "OTP sent to",
+    "resendOTP": "Resend OTP",
+    "resendIn": "Resend in",
+    "seconds": "seconds",
+    "verifyOTP": "Verify OTP",
+    "invalidMobile": "Please enter a valid 10-digit mobile number",
+    "invalidOTP": "Please enter a valid 6-digit OTP",
+    "invalidPassword": "Password must be at least 6 characters",
+    "loginSuccess": "Login successful",
+    "loginFailed": "Login failed. Please try again",
+    "otpExpired": "OTP expired. Please request a new one",
+    "dummyUserNote": "Demo Mode: Use mobile 0000000000 and password admin123",
+    "farmerId": "Farmer ID",
+    "mobileNo": "Mobile No.",
+    "otp": "OTP",
+    "password": "Password",
+    "forgotPasswordText": "Forgot password?",
+    "dontHaveAccountText": "Don't have an account?",
+    "registerHere": "Register here",
+    "sendOTP": "Send OTP",
+    "signIn": "Sign In",
+    "enterRegisteredMobile": "Enter Registered Mobile Number",
+    "enterFarmerId": "Enter your Farmer ID",
+    "selectLanguage": "Select Language",
+    "enterOTP": "Enter OTP",
+    "registrationSuccess": "Registration Successful",
+    "welcomeMessage": "Welcome to MahaVISTAAR-AI!",
+    "otpSentSuccessfully": "OTP sent successfully",
+    "failedToResendOTP": "Failed to resend OTP",
+    "otpVerified": "OTP Verified",
+    "completeYourProfile": "Please complete your profile to continue"
+  },
+  "register": {
+    "title": "Register",
+    "subtitle": "Your Account!",
+    "personalInfo": "Personal Information",
+    "locationInfo": "Location Information",
+    "namePlaceholder": "Enter your name",
+    "mobilePlaceholder": "Enter your mobile number",
+    "emailPlaceholder": "Enter your email (optional)",
+    "register": "Register"
+  },
+  "userInfo": {
+    "title": "User",
+    "subtitle": "Information",
+    "namePlaceholder": "Name",
+    "districtPlaceholder": "District",
+    "talukaPlaceholder": "Taluka",
+    "villagePlaceholder": "Village",
+    "updateProfile": "Update Profile",
+    "changePassword": "Change or reset your password"
+  },
+  "dashboard": {
+    "appName": "MahaVISTAAR-AI",
+    "goodMorning": "Good Morning",
+    "goodAfternoon": "Good Afternoon",
+    "goodEvening": "Good Evening",
+    "selectedCrop": "Rabi jowar",
+    "features": {
+      "cropAdvisory": "Crop Advisory",
+      "sop": "S.O.P.",
+      "soilHealthCard": "Soil Health Card",
+      "fertilizerCalculator": "Fertilizer Calculator",
+      "climateResilientTech": "Climate Resilent Technology",
+      "pestDiseases": "Pest and Diseases",
+      "marketPrice": "Market Price",
+      "dbt": "D.B.T.",
+      "warehouse": "Warehouse"
+    },
+    "bottomNav": {
+      "home": "Home",
+      "chc": "CHC",
+      "videos": "Videos",
+      "shetishala": "Shetishala",
+      "chatbot": "Ask me anything"
+    }
+  },
+  "launchingSoon": {
+    "title": "Launching soon",
+    "message": "We are working on it to launch as soon as possible"
+  },
+  "sidebar": {
+    "myProfile": "My profile",
+    "leaderboard": "Leaderboard",
+    "costCalculator": "Cost calculator",
+    "credits": "Credits",
+    "about": "About",
+    "version": "Version"
+  },
+  "crop": {
+    "noCropsAdded": "No Crops Added",
+    "addCrop": "Add Crop"
+  },
+  "about": {
+    "title": "About",
+    "subHeader": "About MahaVISTAAR-AI:",
+    "description": "Welcome to the MahaVISTAAR-AI App, your trusted companion in modern farming at your fingertips, from the Department of Agriculture, Government of Maharashtra.\n\nThis App is the one-stop solution for farmers which is focused on empowering farmers by providing essential agricultural information, real-time weather updates, market prices, pest identification and control tips, agromet advisories, warehouse and CHC information, expert advice to help farmers make informed decisions and many more. With AI-Powered Chatbot, farmers can easily get local and need-based advice in Marathi and English. MahaVISTAAR-AI works to bridge the gap between complex information and actionable decisions in agriculture. By integrating technology with climate-resilient farming practices, we aim to promote sustainable and profitable agriculture. From monitoring your crops to connecting with fellow farmers, we ensure you’re never alone on your farming journey. Let’s grow together!",
+    "ourPartners": "Our Partners:"
+  },
+  "partners": {
+    "title": "Partners",
+    "sections": {
+      "initiativeBy": "An Initiative By",
+      "worldBank": "",
+      "developedBy": "Developed By",
+      "knowledgePartners": "Knowledge Partners",
+      "techSupportPartners": "Technology Support Partners",
+      "dataCollaborationPartners": "Data Collaboration Partners"
+    },
+    "names": {
+      "agriDept": "Department of Agriculture, Govt. of Maharashtra",
+      "animalHusbandry": "Department of Animal Husbandry and Dairying",
+      "fisheries": "Department of Fisheries",
+      "worldBank": "The World Bank",
+      "nanaji": "Nanaji Deshmukh Krishi Sanjivani Prakalp",
+      "mpkv": "MPKV Rahuri",
+      "pdkv": "PDKV Akola",
+      "vnmkv": "VNMKV Parbhani",
+      "bskkv": "BSKKV Dapoli",
+      "wotr": "WOTR",
+      "pani": "Pani Foundation",
+      "ekstep": "EkStep Foundation",
+      "fide": "FIDE",
+      "coss": "COSS",
+      "imd": "IMD",
+      "mahavedh": "Mahavedh",
+      "msamb": "MSAMB",
+      "mswc": "MSWC"
+    }
+  }
+}
